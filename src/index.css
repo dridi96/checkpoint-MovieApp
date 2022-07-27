@@ -26,7 +26,7 @@ code {
 .movie{
   box-shadow: 0 5px 10px black;
   width: 250px;
- height: 400px;
+ height: 430px;
   background-color:#F2F2F2;
   margin: 1rem;
   border-radius: 5px;
@@ -95,4 +95,19 @@ code {
   }
   .form{
     display: flex;
+  }
+  .Button{
+    background-color: darkgoldenrod;
+    position: absolute;
+    bottom: 15px;
+  }
+  .desc{
+    background-color: #365359;
+    justify-content: center;
+    justify-items: center;
+  }
+  .titre{
+    text-align: center;
+    border: 5px solid #C4D7D1;
+    height: 70px;
   }
